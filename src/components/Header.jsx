@@ -53,7 +53,7 @@ const Header = () => {
           className="flex space-x-1 cursor-pointer"
         >
           <img className="w-4 h-4" src={doubleTick} alt="Complete" />
-          <span>Complete All Tasks</span>
+          <span>CRUD App with React Redux and Local Storage</span>
         </li>
         <li
           onClick={() => {
